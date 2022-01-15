@@ -16,3 +16,5 @@ Do not copy ahk file, shortcut instead.
 
 ## How to use
 Right-click on the tray icon then you're good to go.
+
+To use different Syncthing listen address, use any text editor open .ahk files and find `127.0.0.1`.
