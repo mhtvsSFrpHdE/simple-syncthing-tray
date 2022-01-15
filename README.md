@@ -4,6 +4,8 @@
 
 Simple tray icon to open browser GUI URL.
 
+![image](https://user-images.githubusercontent.com/10773245/149608332-8a57eb1d-6130-420b-9705-d748e1331926.png)
+
 It's not a "Trayzor" like this: [SyncTrayzor](https://github.com/canton7/SyncTrayzor/releases/latest) and more act like a shortcut.
 
 ## Install
