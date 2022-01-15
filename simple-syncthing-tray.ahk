@@ -17,7 +17,7 @@ Menu, Tray, NoStandard
 ; Add menu
 
 ; Open syncthing gui
-Menu, Tray, Add, Open, OpenSyncthingGui
+Menu, Tray, Add, Open Syncthing, OpenSyncthingGui
 
 ; Exit
 Menu, Tray, Add, Exit, ExitApp
